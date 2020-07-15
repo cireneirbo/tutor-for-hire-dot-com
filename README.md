@@ -6,7 +6,7 @@ To install dependents:
 
 In the command line of the IDE of your choice:
 
-type>> npm install typescript ts-node convict express helmet morgan nodemon ejs sass
+type>> npm install typescript ts-node convict express helmet morgan nodemon ejs
 
 type>> npm install --save-dev eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser @types/node @types/convict @types/express @types/helmet @types/morgan @types/ejs
 
@@ -22,7 +22,6 @@ Utilizes:
 + morgan@1.10.0
 + ejs@3.1.3
 + convict@6.0.0
-+ sass@1.26.10
 
 + @types/morgan@1.9.1
 + @types/ejs@3.0.4
